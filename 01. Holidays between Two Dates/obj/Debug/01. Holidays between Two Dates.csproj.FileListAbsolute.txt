@@ -1,0 +1,6 @@
+C:\Users\STIL.USER-PC\Desktop\Deyan\SoftUni\Tech Module\Programming Fundamentals\02. Git, GitHub - Exercises\01. Holidays between Two Dates\bin\Debug\_01.Holidays_between_Two_Dates.exe.config
+C:\Users\STIL.USER-PC\Desktop\Deyan\SoftUni\Tech Module\Programming Fundamentals\02. Git, GitHub - Exercises\01. Holidays between Two Dates\bin\Debug\_01.Holidays_between_Two_Dates.exe
+C:\Users\STIL.USER-PC\Desktop\Deyan\SoftUni\Tech Module\Programming Fundamentals\02. Git, GitHub - Exercises\01. Holidays between Two Dates\bin\Debug\_01.Holidays_between_Two_Dates.pdb
+C:\Users\STIL.USER-PC\Desktop\Deyan\SoftUni\Tech Module\Programming Fundamentals\02. Git, GitHub - Exercises\01. Holidays between Two Dates\obj\Debug\01. Holidays between Two Dates.csprojResolveAssemblyReference.cache
+C:\Users\STIL.USER-PC\Desktop\Deyan\SoftUni\Tech Module\Programming Fundamentals\02. Git, GitHub - Exercises\01. Holidays between Two Dates\obj\Debug\_01.Holidays_between_Two_Dates.exe
+C:\Users\STIL.USER-PC\Desktop\Deyan\SoftUni\Tech Module\Programming Fundamentals\02. Git, GitHub - Exercises\01. Holidays between Two Dates\obj\Debug\_01.Holidays_between_Two_Dates.pdb

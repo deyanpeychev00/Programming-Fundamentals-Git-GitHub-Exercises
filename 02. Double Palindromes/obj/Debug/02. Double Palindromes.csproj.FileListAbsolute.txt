@@ -1,0 +1,6 @@
+C:\Users\STIL.USER-PC\Desktop\Deyan\SoftUni\Tech Module\Programming Fundamentals\02. Git, GitHub - Exercises\02. Double Palindromes\bin\Debug\_02.Double_Palindromes.exe.config
+C:\Users\STIL.USER-PC\Desktop\Deyan\SoftUni\Tech Module\Programming Fundamentals\02. Git, GitHub - Exercises\02. Double Palindromes\bin\Debug\_02.Double_Palindromes.exe
+C:\Users\STIL.USER-PC\Desktop\Deyan\SoftUni\Tech Module\Programming Fundamentals\02. Git, GitHub - Exercises\02. Double Palindromes\bin\Debug\_02.Double_Palindromes.pdb
+C:\Users\STIL.USER-PC\Desktop\Deyan\SoftUni\Tech Module\Programming Fundamentals\02. Git, GitHub - Exercises\02. Double Palindromes\obj\Debug\02. Double Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\STIL.USER-PC\Desktop\Deyan\SoftUni\Tech Module\Programming Fundamentals\02. Git, GitHub - Exercises\02. Double Palindromes\obj\Debug\_02.Double_Palindromes.exe
+C:\Users\STIL.USER-PC\Desktop\Deyan\SoftUni\Tech Module\Programming Fundamentals\02. Git, GitHub - Exercises\02. Double Palindromes\obj\Debug\_02.Double_Palindromes.pdb
